@@ -1,0 +1,8 @@
+Owner,Development Area,Sub Tasks,Priority,Status,% of Completion,Backlog,Planned/Unplanned,Start Date,End Date,Tasks Accomplished,Remarks
+Pradeep,Backend API,Create login API,High,In Progress,60,Yes,Planned,01-06-2026,10-06-2026,Token-based authentication implemented,Pending validation
+Rishitha,Frontend UI,Dashboard UI design,Medium,Completed,100,No,Planned,20-05-2026,30-05-2026,Charts and widgets added,None
+Indira,Database,Optimize queries,High,In Progress,45,Yes,Unplanned,05-06-2026,15-06-2026,Indexes created,Need performance testing
+Rishitha,Testing,Regression testing,Critical,Pending,20,Yes,Planned,08-06-2026,18-06-2026,Test cases written,Execution pending
+Mani,DevOps,CI/CD pipeline setup,High,Completed,100,No,Planned,25-05-2026,02-06-2026,Jenkins pipeline ready,None
+Pradeep,Backend API,Fix payment bug,Critical,In Progress,70,No,Unplanned,03-06-2026,12-06-2026,Bug partially fixed,Need QA approval
+Ameesha,Frontend UI,Improve responsiveness,Low,Completed,100,No,Planned,28-05-2026,05-06-2026,Mobile UI optimized,None
